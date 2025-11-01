@@ -17,7 +17,6 @@ GasSplitter is a simple C program that helps you split gasoline expenses among m
 It calculates the total fuel cost based on the distance, fuel consumption, and fuel price, then divides 
 it by the number of participants.
 
-——
 
 # Usage
 
