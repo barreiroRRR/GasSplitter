@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <pre>
 _________             ________       ____________________
 __  ____/_____ _________  ___/__________  /__(_)_  /__  /_____________
@@ -36,7 +36,7 @@ Your trip total price is 28.44€, and the price per traveler is 9.48€.
 Thank you for using GasSplitter. Safe travels!
 
 
-# Contributing
+# Contributing
 
 Contributions are welcome! If you want to add features or improve the program:
 1. Fork the repository
